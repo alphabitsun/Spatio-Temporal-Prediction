@@ -18,6 +18,10 @@
 	  <td>&emsp;<a href="#speed-prediction">2.5 Speed Prediction</a></td>
     <td>&ensp;<a href="#time-series-forecasting">2.6 Time-Series Forecasting</a></td>    
 </tr>
+<tr>
+	  <td>&emsp;<a href=".\/md\/GNN.md">2.7 GNN papers on Traffic forecasting</a></td>
+    <td>&ensp;<a href=""></a></td>    
+</tr>
 <tr><td colspan="2"><a href="#datasets">4. Datasets</a></td></tr>
 <tr>
     <td>&emsp;<a href="#sensor-data">4.1 Sensor data</a></td>
