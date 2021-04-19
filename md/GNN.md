@@ -14,9 +14,9 @@ Application of graph neural network in spatiotemporal data
 
 ## Papper
 
-| 编号 | 日期 | 题目 | 作者 | 框架 |
-| ---- | ---- | ---- | ---- | ---- |
-|      |      |      |      |      |
-|      |      |      |      |      |
-|      |      |      |      |      |
+| 编号 | 日期 | 题目                                                         | 作者               | 框架                                |
+| ---- | ---- | ------------------------------------------------------------ | ------------------ | ----------------------------------- |
+|      | 2019 | [Optimized Graph Convolution Recurrent Neural Network for Traffic Prediction](..\/papper\/gnn\/10.1109@TITS.2019.2963722.pdf) | Kan Guo, Yongli Hu | ![GCRNN](..\/model\/gnn\/GCRNN.png) |
+|      | 2020 | [Dynamic Graph Convolution Network for Traffic Forecasting Based on Latent Network of Laplace Matrix Estimation](..\/papper\/gnn\/10.1109@TITS.2020.3019497.pdf) | Kan Guo, Yongli Hu | ![DGCNN](..\/model/\gnn\/DGCNN.png) |
+|      |      |                                                              |                    |                                     |
 
