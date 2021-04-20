@@ -12,7 +12,7 @@
 </tr> 
 <tr>
     <td>&emsp;<a href="./md/Demand_Prediction.md">2.3 Demand Prediction</a></td>
-    <td>&ensp;<a href="#travel-time-or-arrive-time-prediction">2.4 Travel time or Arrive time Prediction</a></td>
+    <td>&ensp;<a href="./md/Travel-time-or-arrive-time">2.4 Travel time or Arrive time Prediction</a></td>
 </tr>
 <tr>
 	  <td>&emsp;<a href="#speed-prediction">2.5 Speed Prediction</a></td>
